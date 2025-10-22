@@ -3,3 +3,5 @@
 Team Leader: 20241078
 Project 04 version1 completed
 2nd Team Member: 양재형
+“2nd Team Member: < --- 2
+“2nd Team Member: 20221056
